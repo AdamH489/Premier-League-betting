@@ -5,7 +5,7 @@ The excel workbook has 14 sheets:
 
 -Dashboard: Where the key information regarding expected goals of each team is, percentage chance of each team winning or a draw, percentage cover spread, fractional odds of each team winning and moneyline edge for each team and monte carlo simulation results for each team. The dashboard is structured so that the data in each area is changed if you change the home and away team. 
 
--monteCarlo: This sheet runs the monte carlo simulations which helps to determine the probability of each team winning, data which is then displayed in the dashboard.
+--monteCarlo: This sheet runs the monte carlo simulations which helps to determine the probability of each team winning, data which is then displayed in the dashboard.
 
 - teamStats: This sheet includes data on past information for games throughout the season with home team, away team, expected goals for each team and number of goals scored for each team. Using this information, I also found the average number of goals for a home team per game and average goals conceded for the home team and the same information for the away team.
 
