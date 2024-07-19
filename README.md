@@ -3,21 +3,21 @@ I predicted the results of Premier League football matches in the 2023/24 season
 
 The excel workbook has 14 sheets:
 
--Dashboard: Where the key information regarding expected goals of each team is, percentage chance of each team winning or a draw, percentage cover spread, fractional odds of each team winning and moneyline edge for each team and monte carlo simulation results for each team. The dashboard is structured so that the data in each area is changed if you change the home and away team. 
+- Dashboard: Where the key information regarding expected goals of each team is, percentage chance of each team winning or a draw, percentage cover spread, fractional odds of each team winning and moneyline edge for each team and monte carlo simulation results for each team. The dashboard is structured so that the data in each area is changed if you change the home and away team. 
 
---monteCarlo: This sheet runs the monte carlo simulations which helps to determine the probability of each team winning, data which is then displayed in the dashboard.
+- monteCarlo: This sheet runs the monte carlo simulations which helps to determine the probability of each team winning, data which is then displayed in the dashboard.
 
 - teamStats: This sheet includes data on past information for games throughout the season with home team, away team, expected goals for each team and number of goals scored for each team. Using this information, I also found the average number of goals for a home team per game and average goals conceded for the home team and the same information for the away team.
 
-- homeStats: This shows the same data as teamStats, however teamStats shows the data in chronological order and this sheet shows it in alphabetical order for home teams. homeStats2 is the same data as homeStats.
+- homeStats: This shows the same data as teamStats, however teamStats shows the data in chronological order and this sheet shows it in alphabetical order for home teams. homeStats2 is the same data as homeStats except homeStats has a live connection to the home results in 2023/24.
 
-- awayStats: This shows the same data as teamStats, however shows the data in alphabetical order for away teams. awayStats2 is the same data as awayStats.
+- awayStats: This shows the same data as teamStats, however shows the data in alphabetical order for away teams. awayStats2 is the same data as awayStats except homeStats has a live connection to the away results in 2023/24.
 
 - averageStats: This shows the average home goals for and against and the average away goals for and against for each team in the league.
 
 - seasonalStats: This shows many stats for each team in the league.
 
-- pDist: This shows the poisson distribution for the home and away team calculating the probability of a home win, draw and away win. It also shows the home cover and away cover.
+- pDist: This shows the poisson distribution for the home and away team calculating the probability of a home win, draw and away win; it also shows the home cover and away cover.
 
 - teamNames: This sheet shows a list of all the team names in the league.
 
